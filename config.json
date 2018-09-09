@@ -1,0 +1,14 @@
+{
+	"token"            : "Your Discord Token",
+	"owners"           : ["000000000000000000"],
+	"admins"           : ["000000000000000000"],
+	"moderationGroups" : ["Admin", "Mod"],
+	"moderatorCooldown": true,
+	"presence"         : {
+		"game"       : "Discord",
+		"status"     : "dnd"
+	},
+	"prefix"           : "/",
+	"debug"            : false,
+	"cooldown"         : 5000
+}
